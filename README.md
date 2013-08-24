@@ -40,11 +40,11 @@ optional parameter
 examples
 --------
 
- mylocation.naberius.de  -> returns all informations formated as json
+ mylocation.freepackets.org  -> returns all informations formated as json
  
- mylocation.naberius.de?format=yaml&info=cs  -> returns all informations about country whois and the AS
+ mylocation.freepackets.org?format=yaml&info=cs  -> returns all informations about country whois and the AS
 
- mylocation.naberius.de?format=yaml&info=l&addr=6.6.6.6  -> returns city location for ip 6.6.6.6
+ mylocation.freepackets.org?format=yaml&info=l&addr=6.6.6.6  -> returns city location for ip 6.6.6.6
 
  
 used external code
